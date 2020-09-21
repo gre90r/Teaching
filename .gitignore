@@ -1,0 +1,7 @@
+
+/* open office documents */
+*.odt
+
+/* microsoft office documents */
+*.doc
+
